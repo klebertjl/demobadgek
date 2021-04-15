@@ -1,3 +1,4 @@
 # demobadgek
 
 # Ceci est une démo pour la formation
+# une ligne ecrite avec vi
